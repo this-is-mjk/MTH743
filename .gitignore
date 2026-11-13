@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.autosave
+slprj/
+matlab/*.mat
+*.m.err
+
+# OS / editor
+.DS_Store
+.vscode/
